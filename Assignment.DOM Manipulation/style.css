@@ -1,0 +1,25 @@
+
+.bg-dark {
+    background-color: black;
+    color: white;
+}
+
+
+#my-form {
+    border: 1px solid black;
+    padding: 15px;
+    width: 300px;
+}
+
+
+.btn {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+
+.items li {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px 0;
+}
